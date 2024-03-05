@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TeoFanta99
+- 👋 Hi, I’m Matteo!
 - 👀 I’m interested in technology, football and good old music
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on amazing people!
